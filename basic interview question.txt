@@ -1,0 +1,69 @@
+                Basic Interview questions        
+
+Q.1- What is differences between c , c++ and java?
+         C                                       
+
+1.It is a procedural                    
+language
+2.It is platform dependent
+3.It executes code directly
+4.It support union and structures
+5.It support Pointers
+6.It has 32 Keywords.
+7.It follow top down approach
+It is static programming language
+  
+            C++
+
+1.It is object-oriented                    
+language
+2.It is platform dependent
+3.It executes code directly
+4.It support union and structures
+5.It support Pointers
+6.It has 60 Keywords.
+7.It follow top down approach
+It is also a static programming language
+
+              JAVA
+
+1.It is a pure object oriented                    
+language
+2.It is platform independent bcz of byte code
+3.It executes code by JVM
+4.It doesn't support union and structures
+5.It doesn't support Pointers bcz of security
+6.It has 32 Keywords.
+7.It follow bottom up approach
+It is dynamic programming language
+
+Q.2- What is string in java?
+
+Generally string is a sequence of characters.but in java string is an object that represnts a sequence of characters.The java.lang.String class is used to create string object.
+There are two ways to create String object.
+1.By string literal
+2.By new keyword.
+
+Q.3-What are the OOPS Concept in java
+There are 6 ooops concept in java.
+
+1. OBJECT-Any entity that has an state and behavior is known as object. It is an instance of classs.It can be physical and logical.
+
+2.CLASS-It is a logical entity.It cant be physical.
+It is a blueprint from which you can create an individual object.
+Class doesnt contain any space.
+
+3.INHERITANCE-It is an entity that enherits properties from it parent class.
+or when one object acquires all the properties and behaviours of its parent class.It provides code reusability.It provide run time polymorphism.
+
+4.POLYMORPHISM- When one task is performed in different ways.
+We use method overloading and method overriding to achieve polymorphism.
+
+5.ABSTARCTION- Hiding the internal details and show functionality to user
+Example - Phone call,we dont know the internal details 
+We use abstract class and interface to achieve abstraction.
+
+6.ENCAPSULATION- Binding or (Wrapping code) and  data together into single unit is known as encapsulation
+Example -CAPSULE...It is a combination of different medicines.
+Java class is the example of encapsualtion.
+
